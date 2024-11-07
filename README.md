@@ -82,18 +82,19 @@ Meu nome é Guilherme Bonfim, tenho 23 anos e sou natural de São Paulo. Atualme
 
 ### 📊 Estatísticas
 
-<img 
-   align="left" 
-   alt="GitHub Stats" 
-   height="200" 
-   style="padding-right: 10px;" 
-   src="https://github-readme-stats.vercel.app/api?username=guibonf1m&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&token=YOUR_GITHUB_TOKEN"
-/>
+<p> style="display: flex; align-items: center;">
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="250" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=guibonf1m&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibonf1m&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
