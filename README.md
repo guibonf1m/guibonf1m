@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Meu nome é Guilherme Bonfim, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Unicesumar, com o objetivo de fortalecer meus conhecimentos em programação e tecnologias para contribuir com soluções inovadoras. Faço parte do programa Desenvolva+, onde estou desenvolvendo habilidades em Back-End Java, incluindo lógica de programação, orientação a objetos, testes automatizados e técnicas de programação. Sou apaixonado por tecnologia e estou focado em construir uma carreira sólida em desenvolvimento de software.
+Meu nome é Guilherme Bonfim, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Unicesumar, com o objetivo de fortalecer meus conhecimentos em programação e tecnologias para contribuir com soluções inovadoras. Faço parte do programa Desenvolva+, um projeto da Ada Tech em parceria com o Mercado Livre, onde estou desenvolvendo habilidades em Back-End Java, incluindo lógica de programação, orientação a objetos, testes automatizados e técnicas de programação. Sou apaixonado por tecnologia e estou focado em construir uma carreira sólida em desenvolvimento de software.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/oguibonfim/" target="_blank">
