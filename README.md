@@ -43,19 +43,19 @@ Meu nome é Guilherme Bonfim, tenho 23 anos e sou natural de São Paulo. Atualme
 />
 <img 
     align="left" 
-    alt="C#"
-    title="C#" 
+    alt="Spring Boot"
+    title="Spring Boot" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
-    alt="Angular"
-    title="Angular" 
+    alt="Docker"
+    title="Docker" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+    src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000)"
 />
 
 <img 
