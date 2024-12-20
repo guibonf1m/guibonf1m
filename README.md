@@ -7,8 +7,7 @@
 (Java | Spring Boot | Angular | Javascript | HTML | CSS ) 🚀
 - 👩‍💻 Software Enginner @[Mercado Libre](https://www.mercadolivre.com.br/)
 - 🏆 Microsft MVP
-- 🎥 Tech content producer, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@kipperdev) and share informative content on my [Instagram](https://www.instagram.com/kipper.dev/).
-- 🎓 Bachelor's degree in Computer Science
+- 🎓 Pursuing a degree in Analysis and Systems Development
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
 
