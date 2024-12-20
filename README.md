@@ -5,7 +5,6 @@
 
 ## My name is Guilherme Bonfim
 (Java | Spring Boot | Angular | Javascript | HTML | CSS ) 🚀
-- 👩‍💻 Software Enginner @[Mercado Libre](https://www.mercadolivre.com.br/)
 - 🏆 Participant of the **Desenvolva+ Program** by Ada Tech and Mercado Livre
 - 🎓 Pursuing a degree in Analysis and Systems Development
 - 🌐 Passionate about web development
