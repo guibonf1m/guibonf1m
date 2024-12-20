@@ -1,8 +1,7 @@
 <h1>Hi There! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguibonfim/)](https://www.linkedin.com/in/oguibonfim/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:contato@fernandakipper.com)
+[![Gmail Badge](https://img.shields.io/badge/-6onf1mtech@gmail.com-0A66C2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:6onf1mtech@gmail.com)](mailto:6onf1mtech@gmail.com)
 
 ## My name is Guilherme Bonfim
 (Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
