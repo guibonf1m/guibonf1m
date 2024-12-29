@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-6onf1mtech@gmail.com-0A66C2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:6onf1mtech@gmail.com)](mailto:6onf1mtech@gmail.com)
 
 ## My name is Guilherme Bonfim
-(Java | Spring Boot | Angular | Javascript | HTML | CSS ) 🚀
+(Java | Spring Boot | JUnit | Angular | Javascript | HTML | CSS ) 🚀
 - 🏆 Participant of the **Desenvolva+ Program** by Ada Tech and Mercado Livre
 - 🎓 Pursuing a degree in Analysis and Systems Development
 - 🌐 Passionate about web development
