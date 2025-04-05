@@ -15,6 +15,11 @@ Code name: guibonf1m
 Location: 🇧🇷 Brazil | São Paulo
 Contact: bonfimtech@gmail.com
 Mission: Create scalable, secure and high-performance software
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedor Back-End em Java | Spring
+
+Sou apaixonado por tecnologia e desenvolvimento de software! Desde 2023, venho estudando e trabalhando em projetos que envolvem APIs RESTful, Java e Spring, sempre com foco em criar soluções eficientes e inovadoras.
 ```
 
 ---
