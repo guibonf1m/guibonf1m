@@ -52,7 +52,31 @@ Mission: Create scalable, secure and high-performance software
 
 ---
 
+### 🚀 Projetos em Destaque
+🔧 API para E-commerce
+Uma API RESTful para gerenciamento de produtos e pedidos em um sistema de e-commerce.
+
+CRUD de produtos e pedidos
+
+Cálculo automático do valor total dos pedidos
+
+Próximo passo: autenticação e autorização com Spring Security
+Tecnologias: Java, Spring Boot, PostgreSQL
+
+🏫 API para Sistema Escolar
+API RESTful para gerenciamento de escolas.
+
+Cadastro e gerenciamento de alunos, turmas e disciplinas
+Tecnologias: Java, Spring Boot, PostgreSQL
+
+💸 Projeto AI Finance (Em desenvolvimento)
+Aplicação para ajudar pessoas a gerenciar finanças e buscar formas de investir de acordo com seus perfis.
+Tecnologias: Java, Spring Boot, inteligência artificial (em breve)
+
+---
+
 ### 🔭 Currently
+
 - 🧑‍💻 Participant of the **Desenvolva+ Program** (Ada Tech & Mercado Livre)
 - 🧑‍💻 Participante do Oracle Next Education (ONE) (Oracle & Alura Latam)
 - 🎓 Pursuing a degree in **Analysis and Systems Development**
