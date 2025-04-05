@@ -35,7 +35,7 @@ projects involving RESTful APIs, Java, and Spring, always focused on building ef
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🧑‍🚀 Projetos em Destaque
 🔧 [**API para E-commerce**](https://github.com/guibonf1m/e-commerce-api)
 
 Uma API para gerenciar produtos e pedidos em um sistema de e-commerce.
