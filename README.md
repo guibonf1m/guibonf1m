@@ -71,10 +71,10 @@ printf("Thanks for stopping by! 🧿  Feel free to explore my repos.");
 
 <!-- Rodapé ou easter egg -->
 <p align="center">
-  <img src="https://i.imgur.com/ZdTLF1U.gif" width="150" alt="robot waving">
+  <img src="https://i.imgur.com/6NfmQ.gif" width="250" alt="neon terminal hacker">
 </p>
 
 <p align="center">
-  <strong>Thanks for stopping by! 🚀<br>
-  See you in the future of code... 🤖</strong>
+  <strong>Thanks for visiting my universe! 🌐<br>
+  May your code compile on the first try. 🧠⚡</strong>
 </p>
