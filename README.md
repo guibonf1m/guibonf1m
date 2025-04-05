@@ -71,5 +71,9 @@ printf("Thanks for stopping by! 🧿  Feel free to explore my repos.");
 
 <!-- Rodapé ou easter egg -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="cyber hacker">
+</p>
+
+<p align="center">
+  <strong>Keep coding. Keep exploring. The universe is yours! 🌌👨‍💻</strong>
 </p>
