@@ -40,7 +40,7 @@ Mission: Create scalable, secure and high-performance software
   - Git & GitHub (controle de versão)
   - Docker (conteinerização de aplicações Java)
   - Postman (testes de APIs RESTful)
-  - IntelliJ IDEA (IDE principal para Java)
+  - IntelliJ IDEA (IDE que utilizo no dia dia)
 
 🗃️ Bancos de Dados:
   - MySQL & PostgreSQL (relacionais com JDBC/JPA)
