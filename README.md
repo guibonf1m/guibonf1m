@@ -36,19 +36,12 @@ projects involving RESTful APIs, Java, and Spring, always focused on building ef
 ---
 
 ### 🚀 Projetos em Destaque
-🔧 [**API para E-commerce**](https://github.com/guibonf1m/e-commerce-api)  
+🔧 [**API para E-commerce**](https://github.com/guibonf1m/e-commerce-api)
+
 Uma API para gerenciar produtos e pedidos em um sistema de e-commerce.
 
 Funcionalidades: CRUD de produtos e pedidos, cálculo automático do valor total de pedidos.  
 Próximo passo: Implementar autenticação e autorização com Spring Security.
-
-Próximo passo: autenticação e autorização com Spring Security
-Tecnologias: Java, Spring Boot, PostgreSQL
-
-🏫 API para Sistema Escolar
-API RESTful para gerenciamento de escolas.
-
-Cadastro e gerenciamento de alunos, turmas e disciplinas
 Tecnologias: Java, Spring Boot, PostgreSQL
 
 ---
