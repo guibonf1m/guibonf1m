@@ -16,14 +16,14 @@ Location: Brasil | São Paulo
 Contact: bonfimtech@gmail.com
 Mission: Create scalable, secure and high-performance software
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Desenvolvedor Back-End em Java | Spring
+🎓 Student of Analysis and Systems Development
+💻 Backend Developer specialized in Java | Spring
 
-Sou apaixonado por tecnologia e desenvolvimento de software! Desde 2024, venho estudando e trabalhando em
-projetos que envolvem APIs RESTful, Java e Spring, sempre com foco em criar soluções eficientes e inovadoras.
+I’m passionate about technology and software development! Since 2024, I’ve been studying and working on
+projects involving RESTful APIs, Java, and Spring, always focused on building efficient and innovative solutions.
 
 - 🧑‍💻 Participant of the Desenvolva+ Program (Ada Tech & Mercado Livre)
-- 🧑‍💻 Participante do Oracle Next Education (ONE) (Oracle & Alura Latam)
+- 🧑‍💻 Participant of the Oracle Next Education (ONE) (Oracle & Alura Latam)
 
 ```
 ---
