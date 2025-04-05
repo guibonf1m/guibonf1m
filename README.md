@@ -28,12 +28,27 @@ Mission: Create scalable, secure and high-performance software
 
 ### 🧠 Tech Stack
 
-```yaml
-Languages: Java • HTML • CSS
-Frameworks: Spring Boot • JUnit • Angular
-Tools: Docker • Git • VS Code • IntelliJ
-DBs: MySQL • PostgreSQL • SQLite
-```
+👨‍💻 Language:
+  - Java (foco principal e onde me especializo)
+
+🚀 Frameworks & Testes:
+  - Spring Boot (APIs REST, MVC, segurança, etc.)
+  - JUnit (testes unitários e integração)
+  - Mockito (mocking para testes em Java)
+
+🧰 Ferramentas:
+  - Git & GitHub (controle de versão)
+  - Docker (conteinerização de aplicações Java)
+  - Postman (testes de APIs RESTful)
+  - IntelliJ IDEA (IDE principal para Java)
+
+🗃️ Bancos de Dados:
+  - MySQL & PostgreSQL (relacionais com JDBC/JPA)
+  - SQLite (para testes locais e ambientes leves)
+
+🌐 Extras:
+  - Conhecimento básico em Angular (para integração com back-end)
+  - Noções de CI/CD e deploy em cloud (Heroku e Render)
 
 ---
 
