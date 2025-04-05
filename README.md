@@ -23,7 +23,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software! Desde 2024, venho e
 projetos que envolvem APIs RESTful, Java e Spring, sempre com foco em criar soluções eficientes e inovadoras.
 
 ```
-
 ---
 
 ### 🌐 Connect with me
@@ -49,10 +48,6 @@ API RESTful para gerenciamento de escolas.
 
 Cadastro e gerenciamento de alunos, turmas e disciplinas
 Tecnologias: Java, Spring Boot, PostgreSQL
-
-💸 Projeto AI Finance (Em desenvolvimento)
-Aplicação para ajudar pessoas a gerenciar finanças e buscar formas de investir de acordo com seus perfis.
-Tecnologias: Java, Spring Boot, inteligência artificial (em breve)
 
 ---
 
