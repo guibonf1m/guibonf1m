@@ -19,7 +19,9 @@ Mission: Create scalable, secure and high-performance software
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Desenvolvedor Back-End em Java | Spring
 
-Sou apaixonado por tecnologia e desenvolvimento de software! Desde 2023, venho estudando e trabalhando em projetos que envolvem APIs RESTful, Java e Spring, sempre com foco em criar soluções eficientes e inovadoras.
+Sou apaixonado por tecnologia e desenvolvimento de software! Desde 2023, venho estudando e trabalhando em
+projetos que envolvem APIs RESTful, Java e Spring, sempre com foco em criar soluções eficientes e inovadoras.
+
 ```
 
 ---
@@ -28,32 +30,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software! Desde 2023, venho e
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oguibonfim)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guibonf1m)
-
----
-
-### 🧠 Tech Stack
-
-👨‍💻 Language:
-  - Java (foco principal e onde me especializo)
-
-🚀 Frameworks & Testes:
-  - Spring Boot (APIs REST, MVC, segurança, etc.)
-  - JUnit (testes unitários e integração)
-  - Mockito (mocking para testes em Java)
-
-🧰 Ferramentas:
-  - Git & GitHub
-  - Docker (conteinerização de aplicações Java)
-  - Postman (testes de APIs RESTful)
-  - IntelliJ IDEA (IDE que utilizo no dia dia)
-
-🗃️ Bancos de Dados:
-  - MySQL & PostgreSQL (relacionais com JDBC/JPA)
-  - SQLite (para testes locais e ambientes leves)
-
-🌐 Extras:
-  - Conhecimento básico em Angular
-  - Noções de CI/CD e deploy em cloud (Heroku e Render)
 
 ---
 
