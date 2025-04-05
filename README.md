@@ -54,6 +54,7 @@ Mission: Create scalable, secure and high-performance software
 
 ### 🔭 Currently
 - 🧑‍💻 Participant of the **Desenvolva+ Program** (Ada Tech & Mercado Livre)
+- 🧑‍💻 Participante do Oracle Next Education (ONE) (Oracle & Alura Latam)
 - 🎓 Pursuing a degree in **Analysis and Systems Development**
 - ☁️ Focused on **backend development**, but exploring **cloud & devops**
 - 💡 Passionate about solving problems and building useful things
