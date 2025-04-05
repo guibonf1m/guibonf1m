@@ -1,64 +1,75 @@
-<h1 align="center">🚀 Welcome to my Universe! 👨‍🚀</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+JUnit+%7C+Docker;Always+learning+%7C+Always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Backend+Developer;DevOps+Explorer;Coffee+%2B+Code+%3D+Life" alt="Typing SVG" />
 </p>
 
----
-
-🧠 **About Me**  
-```bash
-> Name: Guilherme Bonfim  
-> Role: Backend Developer  
-> Code name: guibonf1m  
-> Location: 🌎 Brazil | São Paulo  
-> Contact: 6onf1mtech@gmail.com
-> Mission: Create scalable, secure and high-performance software
-```
-
-🌐 **Connect with me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oguibonfim)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/guibonf1m)
+<h1 align="center">🚀 Welcome to my Universe! 🧑‍🚀</h1>
+<h3 align="center">Backend Developer</h3>
 
 ---
 
-🛠️ **Tech Stack**
-```txt
-|> Languages: Java · C# · JavaScript · HTML · CSS
-|> Frameworks: Spring Boot · JUnit · Angular
-|> Tools: Docker · Git · VS Code · IntelliJ
-|> DB: MySQL · PostgreSQL · SQLite
+### 👨‍💻 About Me
+```yaml
+Name: Guilherme Bonfim
+Role: Backend Developer
+Code name: guibonf1m
+Location: 🇧🇷 Brazil | São Paulo
+Contact: bonfimtech@gmail.com
+Mission: Create scalable, secure and high-performance software
 ```
 
-🌌 **Currently**
-- 👨‍💻 Participant of the **Desenvolva+ Program** (Ada Tech & Mercado Livre)
+---
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oguibonfim)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guibonf1m)
+
+---
+
+### 🧠 Tech Stack
+
+```yaml
+Languages: Java • C# • JavaScript • HTML • CSS
+Frameworks: Spring Boot • JUnit • Angular
+Tools: Docker • Git • VS Code • IntelliJ
+DBs: MySQL • PostgreSQL • SQLite
+```
+
+---
+
+### 🔭 Currently
+- 🧑‍💻 Participant of the **Desenvolva+ Program** (Ada Tech & Mercado Livre)
 - 🎓 Pursuing a degree in **Analysis and Systems Development**
-- 🤖 Focused on **backend development**, but exploring **cloud & devops**
-- 🧩 Passionate about solving problems and building useful things
+- ☁️ Focused on **backend development**, but exploring **cloud & devops**
+- 💡 Passionate about solving problems and building useful things
 
 ---
 
-📊 **GitHub Stats**
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guibonf1m&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibonf1m&layout=compact&theme=tokyonight" height="180"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guibonf1m&show_icons=true&theme=tokyonight&hide=prs&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibonf1m&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guibonf1m&label=Profile%20views&color=0e75b6&style=flat" alt="guibonf1m" />
 </p>
 
 ---
 
-🌀 **Fun Stuff**
-```bash
-> "The code you write today is the bug you debug tomorrow."  
-> — Bonfim, probably while drinking coffee at 2AM
+### 💬 Fun Stuff
+
+> `"The code you write today is the bug you debug tomorrow."`  
+> — Bonfim, probably `while` drinking coffee at 2AM ☕
+
+```c
+printf("Thanks for stopping by! 🧿  Feel free to explore my repos.");
 ```
 
 ---
 
-```
-printf("Thanks for stopping by! 💻 Feel free to explore my repos.
-");
-```
-
----
-
-### ✨ Let's build the future, one commit at a time! 🚀
+<!-- Rodapé ou easter egg -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
