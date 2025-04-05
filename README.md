@@ -58,17 +58,6 @@ DBs: MySQL • PostgreSQL • SQLite
 
 ---
 
-### 💬 Fun Stuff
-
-> `"The code you write today is the bug you debug tomorrow."`  
-> — Bonfim, probably `while` drinking coffee at 2AM ☕
-
-```c
-printf("Thanks for stopping by! 🧿  Feel free to explore my repos.");
-```
-
----
-
 <!-- Rodapé ou easter egg -->
 <p align="center">
   <img src="https://i.imgur.com/6NfmQ.gif" width="250" alt="neon terminal hacker">
