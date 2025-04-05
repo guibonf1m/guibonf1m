@@ -22,6 +22,10 @@ Mission: Create scalable, secure and high-performance software
 Sou apaixonado por tecnologia e desenvolvimento de software! Desde 2024, venho estudando e trabalhando em
 projetos que envolvem APIs RESTful, Java e Spring, sempre com foco em criar soluções eficientes e inovadoras.
 
+🔭 Currently
+- 🧑‍💻 Participant of the **Desenvolva+ Program** (Ada Tech & Mercado Livre)
+- 🧑‍💻 Participante do Oracle Next Education (ONE) (Oracle & Alura Latam)
+
 ```
 ---
 
@@ -48,16 +52,6 @@ API RESTful para gerenciamento de escolas.
 
 Cadastro e gerenciamento de alunos, turmas e disciplinas
 Tecnologias: Java, Spring Boot, PostgreSQL
-
----
-
-### 🔭 Currently
-
-- 🧑‍💻 Participant of the **Desenvolva+ Program** (Ada Tech & Mercado Livre)
-- 🧑‍💻 Participante do Oracle Next Education (ONE) (Oracle & Alura Latam)
-- 🎓 Pursuing a degree in **Analysis and Systems Development**
-- ☁️ Focused on **backend development**, but exploring **cloud & devops**
-- 💡 Passionate about solving problems and building useful things
 
 ---
 
