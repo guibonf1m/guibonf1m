@@ -37,7 +37,7 @@ Mission: Create scalable, secure and high-performance software
   - Mockito (mocking para testes em Java)
 
 🧰 Ferramentas:
-  - Git & GitHub (controle de versão)
+  - Git & GitHub
   - Docker (conteinerização de aplicações Java)
   - Postman (testes de APIs RESTful)
   - IntelliJ IDEA (IDE que utilizo no dia dia)
@@ -47,7 +47,7 @@ Mission: Create scalable, secure and high-performance software
   - SQLite (para testes locais e ambientes leves)
 
 🌐 Extras:
-  - Conhecimento básico em Angular (para integração com back-end)
+  - Conhecimento básico em Angular
   - Noções de CI/CD e deploy em cloud (Heroku e Render)
 
 ---
