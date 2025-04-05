@@ -12,7 +12,7 @@
 Name: Guilherme Bonfim
 Role: Backend Developer
 Code name: guibonf1m
-Location: 🇧🇷 Brazil | São Paulo
+Location: Brasil | São Paulo
 Contact: bonfimtech@gmail.com
 Mission: Create scalable, secure and high-performance software
 
