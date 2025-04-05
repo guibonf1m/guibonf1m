@@ -29,7 +29,7 @@ Mission: Create scalable, secure and high-performance software
 ### 🧠 Tech Stack
 
 ```yaml
-Languages: Java • C# • JavaScript • HTML • CSS
+Languages: Java • HTML • CSS
 Frameworks: Spring Boot • JUnit • Angular
 Tools: Docker • Git • VS Code • IntelliJ
 DBs: MySQL • PostgreSQL • SQLite
