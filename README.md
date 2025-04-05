@@ -37,11 +37,10 @@ projects involving RESTful APIs, Java, and Spring, always focused on building ef
 
 ### 🚀 Projetos em Destaque
 🔧 API para E-commerce
-Uma API RESTful para gerenciamento de produtos e pedidos em um sistema de e-commerce.
+Uma API para gerenciar produtos e pedidos em um sistema de e-commerce.
 
-CRUD de produtos e pedidos
-
-Cálculo automático do valor total dos pedidos
+Funcionalidades: CRUD de produtos e pedidos, cálculo automático do valor total de pedidos.
+Próximo passo: Implementar autenticação e autorização com Spring Security.
 
 Próximo passo: autenticação e autorização com Spring Security
 Tecnologias: Java, Spring Boot, PostgreSQL
