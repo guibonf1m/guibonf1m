@@ -10,10 +10,8 @@
 ### 👨‍💻 About Me
 ```yaml
 Name: Guilherme Bonfim
-Role: Backend Developer
-Code name: guibonf1m
+Role: Software Developer
 Location: Brasil | São Paulo
-Contact: bonfimtech@gmail.com
 Mission: Create scalable, secure and high-performance software
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
