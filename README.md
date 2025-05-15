@@ -34,7 +34,7 @@ projetos envolvendo APIs RESTful, Java e Spring, sempre focado em construir solu
 ---
 
 ### 🧑‍🚀 Projetos em Destaque
-🔧 [**API para E-commerce**](https://github.com/guibonf1m/e-commerce-api)
+🔧 [**API de Gerenciamento de Tarefas**](https://github.com/guibonf1m/task-api.git)
 
 Uma API para gerenciar produtos e pedidos em um sistema de e-commerce.
 
