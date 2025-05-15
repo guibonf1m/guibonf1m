@@ -36,9 +36,14 @@ projetos envolvendo APIs RESTful, Java e Spring, sempre focado em construir solu
 ### 🧑‍🚀 Projetos em Destaque
 🔧 [**API de Gerenciamento de Tarefas**](https://github.com/guibonf1m/task-api.git)
 
+**Descrição:**  
 API RESTful para cadastrar, atualizar e listar tarefas, com validação e tratamento de erros.
-Tecnologias: Java, Spring Boot, JPA, H2 Database, Postman
-Próximo passo: Implementar autenticação JWT e testes automatizados.
+
+**Tecnologias:**  
+Java, Spring Boot, JPA, H2 Database, Postman
+
+**Próximo passo:**  
+Implementar autenticação JWT e testes automatizados.
 
 ---
 
