@@ -60,11 +60,6 @@ Implementar autenticação JWT e testes automatizados.
 
 ---
 
-<!-- Rodapé ou easter egg -->
-<p align="center">
-  <img src="https://i.imgur.com/6NfmQ.gif" width="250" alt="neon terminal hacker">
-</p>
-
 <p align="center">
   <strong>Thanks for visiting my universe! 🌐<br>
   May your code compile on the first try. 🧠⚡</strong>
