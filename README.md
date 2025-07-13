@@ -1,66 +1,30 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Backend+Developer;DevOps+Explorer;Coffee+%2B+Code+%3D+Life" alt="Typing SVG" />
-</p>
+#  Guilherme Pessoa
 
-<h1 align="center">🚀 Welcome to my Universe! 🧑‍🚀</h1>
-<h3 align="center">Backend Developer</h3>
+**`Software Engineer (Itaú Unibanco)`**
 
----
+I'm a software developer with a curiosity for learning and improving. I focus on writing clean and reusable code, I enjoy collaborating and sharing knowledge with my friends. Focused on my career in the banking sector, I also enjoy devising my own solutions for everyday challenges. In addition, I am committed to enhancing my skills on LeetCode to refine my problem-solving abilities.
 
-### 👨‍💻 About Me
-```yaml
-Name: Guilherme Bonfim
-Role: Software Developer
-Location: Brasil | São Paulo
-Mission: Create scalable, secure and high-performance software
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Desenvolvedor Backend especializado em Java | Spring
-
-Sou apaixonado por tecnologia e desenvolvimento de software! Desde 2024, venho estudando e trabalhando em
-projetos envolvendo APIs RESTful, Java e Spring, sempre focado em construir soluções eficientes e inovadoras.
-
-- 🧑‍💻 Participante do Programa Desenvolva+ (Ada Tech & Mercado Livre)
-- 🧑‍💻 Participante do Oracle Next Education (ONE) (Oracle & Alura Latam)
-
-```
----
-
-### 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oguibonfim)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guibonf1m)
 
 ---
 
-### 🧑‍🚀 Projetos em Destaque
-🔧 [**API de Gerenciamento de Tarefas**](https://github.com/guibonf1m/task-api.git)
+### 🧰 Languages and Tools
 
-**Descrição:**  
-API RESTful para cadastrar, atualizar e listar tarefas, com validação e tratamento de erros.
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-**Tecnologias:**  
-Java, Spring Boot, JPA, H2 Database, Postman
 
-**Próximo passo:**  
-Implementar autenticação JWT e testes automatizados.
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guibonf1m&show_icons=true&theme=tokyonight&hide=prs&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibonf1m&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guibonf1m&label=Profile%20views&color=0e75b6&style=flat" alt="guibonf1m" />
-</p>
-
----
-
-<p align="center">
-  <strong>Thanks for visiting my universe! 🌐<br>
-  May your code compile on the first try. 🧠⚡</strong>
-</p>
+<br />
