@@ -2,11 +2,7 @@
 
 **`Software Developer (Mercado Livre)`**
 
-Hi! I'm Bonfim, a software developer driven by coffee, curiosity, and challenges.
-
-I'm currently on a mission to master the backend with Go. I love getting my hands dirty with code and exchanging ideas with developers and others.
-
-I'm always creating side projects, exploring new ideas, and working to become the best developer I can be.
+Hi! I'm Bonfim, a software developer driven by coffee, curiosity, and challenges. I'm currently on a mission to master the backend with Go. I love getting my hands dirty with code and exchanging ideas with developers and others. I'm always creating side projects, exploring new ideas, and working to become the best developer I can be.
 
 ---
 
