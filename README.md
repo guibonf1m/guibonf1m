@@ -6,7 +6,7 @@ Hi! I'm Bonfim, a software developer driven by coffee, curiosity, and challenges
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
