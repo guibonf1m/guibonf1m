@@ -2,7 +2,11 @@
 
 **`Software Developer (Mercado Livre)`**
 
-Sou um desenvolvedor de software movido por curiosidade e evolução constante. Tenho paixão por escrever código limpo e reutilizável, além de curtir colaborar com colegas e compartilhar conhecimento. Tenho foco em minha carreira no setor bancário e gosto de criar soluções próprias para problemas do dia a dia. Também estou em constante aprimoramento das minhas habilidades de resolução de problemas através do LeetCode.
+Hi! I'm Bonfim, a software developer driven by coffee, curiosity, and challenges.
+
+I'm currently on a mission to master the backend with Go. I love getting my hands dirty with code and exchanging ideas with developers and others.
+
+I'm always creating side projects, exploring new ideas, and working to become the best developer I can be.
 
 ---
 
